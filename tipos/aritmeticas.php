@@ -20,7 +20,15 @@ echo 4 ** 2, '<br>';
 // () => ** = / * % => + -
 
 echo '<p>Precedência</p>';
+echo "() => ** = / * % => + - <br><br>";
+
+echo '"echo 2 + 3 * 4, <br>';
 echo 2 + 3 * 4, '<br>';
+echo 'echo (2 + 3) * 4, <br>';
 echo (2 + 3) * 4, '<br>';
+echo 'echo 2 + 3 * 4 ** 2, <br>';
 echo 2 + 3 * 4 ** 2, '<br>';
+echo 'echo ((2+3) * 4) ** 2, <br>';
 echo ((2+3) * 4) ** 2, '<br>';
+
+// é possivel classificar as operações aritméticas pela quantidade de operandos!
