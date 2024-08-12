@@ -58,5 +58,5 @@ var_dump((int) "10.5");
 echo '<br>';
 var_dump((float) "10.5");
 
-
+// https://www.php.net/manual/pt_BR/language.types.type-juggling.php
 ?>

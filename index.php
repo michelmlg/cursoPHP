@@ -19,6 +19,7 @@
     <main class="principal">
         <div class="conteudo">
             <nav class="modulos">
+                <!-- Básico --> 
                 <div class="modulo verde">
                     <h3>Básico</h3>
                     <ul>
@@ -49,6 +50,7 @@
                         </li>
                     </ul>
                 </div>
+                <!-- Tipos --> 
                 <div class="modulo vermelho">
                     <h3>Tipos</h3>
                     <ul>
@@ -90,6 +92,18 @@
                         <li>
                             <a href="exercicio.php?dir=tipos&file=conversoes">
                                 Conversões
+                            </a>
+                        </li>
+                    </ul>
+                </div> 
+
+                <!-- Variáveis --> 
+                <div class="modulo azul">
+                    <h3>Variáveis</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=variaveis&file=basico">
+                                Básicos
                             </a>
                         </li>
                     </ul>
