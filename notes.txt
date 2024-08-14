@@ -5,3 +5,6 @@ https://www.php.net/manual/pt_BR/getting-started.php
 https://www.php.net/manual/pt_BR/language.basic-syntax.phptags.php
 
 https://www.php.net/manual/pt_BR/language.types.type-juggling.php
+
+Variáveis predefinidas:
+https://www.php.net/manual/pt_BR/language.variables.predefined.php

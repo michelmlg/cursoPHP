@@ -24,8 +24,22 @@ echo isset($somaDosNumeros); // retorna nada quando a variável não é setada
 $variavel = 10;
 echo '<br>' . $variavel;
 
-$variavel = "Agora sou uma sring!";
+$variavel = "Agora sou uma string!";
 echo '<br>' . $variavel;
 
+// Nomes de variável
+$var = 'valida';
+$var2 = 'valida';
+$VAR3 = 'valida';
+$_var_4 = 'valida';
+$vâr5 = 'valida'; // Evitar acentos!
+// $6var = 'invalida';
+// $%var7 = 'invalida';
+// $var8% = 'invalida';
+
+echo '<br>';
+
+// $_SERVER é uma váriaveis Predefinidas e é um array.
+var_dump($_SERVER['HTTP_HOST']); 
 
 ?>
