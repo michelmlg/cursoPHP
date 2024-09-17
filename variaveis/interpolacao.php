@@ -16,5 +16,6 @@ echo "<br>Eu tenho 5 $objetos";
 echo "<br>Eu tenho 5 {$objeto}s";
 echo "<br>Eu tinha 5 { $objeto}s mas perdi 3 {$objeto }s";
 
+
 // Com aspas simples o conteúdo não é interpolado
 // Já com aspas duplas = SIM!
